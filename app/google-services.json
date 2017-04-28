@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "289143271605",
+    "firebase_url": "https://aulaautenticar-d28ce.firebaseio.com",
+    "project_id": "aulaautenticar-d28ce",
+    "storage_bucket": "aulaautenticar-d28ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289143271605:android:126b97c5bf7f53fc",
+        "android_client_info": {
+          "package_name": "autenticar.com.br.aulaautenticar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289143271605-ocpfli5mv9ckpre9qbocudpeftgr4koj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "autenticar.com.br.aulaautenticar",
+            "certificate_hash": "3A72A45FEF5BB7611F76DFBF22910F98EC93C8CD"
+          }
+        },
+        {
+          "client_id": "289143271605-5no7v2omef28bl0j25coood8futd3tm5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAig01N6SX5K9Y-jMnngsMSiQqGrIeAGlY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289143271605-5no7v2omef28bl0j25coood8futd3tm5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
